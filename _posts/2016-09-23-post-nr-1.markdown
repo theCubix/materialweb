@@ -1,0 +1,9 @@
+---
+title: Post nr. 1
+date: 2016-09-23 13:18:00 Z
+thumbnail image: "/uploads/shoreline_thumb.jpg"
+fullres image: "/uploads/shoreline_fullres.jpg"
+---
+
+This is the first post on this site. Hallelujah.
+Im not religious though.
