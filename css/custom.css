@@ -1,0 +1,22 @@
+/* --- General --- */
+main {
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* Cards */
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../assets/demos/welcome_card.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+/* --- Mobile --- */
+@media screen and (max-device-width : 480px)  {
+    main {
+        width: 97%;
+    }
+}
