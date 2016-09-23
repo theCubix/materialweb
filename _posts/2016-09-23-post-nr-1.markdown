@@ -1,8 +1,9 @@
 ---
 title: Post nr. 1
 date: 2016-09-23 13:18:00 Z
-thumbnail image: "/uploads/shoreline_thumb.jpg"
-fullres image: "/uploads/shoreline_fullres.jpg"
+thumbnail_image: "/uploads/shoreline_thumb.jpg"
+fullres_image: "/uploads/shoreline_fullres.jpg"
+description: This is a brief description of the Post.
 ---
 
 This is the first post on this site. Hallelujah.
