@@ -13,4 +13,11 @@ main {
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
 }
+
 /* --- Mobile --- */
+@media screen and (max-device-width : 480px)  {
+    main {
+        width: 97%;
+    }
+}
+
